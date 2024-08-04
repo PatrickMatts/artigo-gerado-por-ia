@@ -26,7 +26,8 @@ REGRAS
 - Desafios na Implementação do Big Data
 - Tomada de Decisões baseadas em Dados.
 - Futuro do Big Data na Transformação Digital. 
-- Conclusão |
+- Conclusão 
+|
 
 
 ## ✨ Features
