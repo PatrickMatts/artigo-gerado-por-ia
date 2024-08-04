@@ -14,6 +14,25 @@ Projeto de laboratório desenvolvido para a formação **ChatGPT For Devs** da D
 
 Prompt: [Aqui](https://docs.google.com/document/d/1iUvef6FIFma2EyQGErirSYQl4vdlAHYXlI3OSQvbkz0/edit?usp=drive_link) 
 
+PROMPT
+
+> Comporte-se como um escritor de artigos tech, escreva o artigo atendendo às regras abaixo:
+
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação.
+> Me explique de maneira informal, como se eu fosse um adolescente de 15 anos.
+> Os blocos que serão criados estão abaixo: 
+- Introdução ao assunto
+- Introdução à Transformação Digital 
+- O que é Big Data?
+- Como o Big Data impulsiona a Transformação Digital. 
+- Ferramentas e Tecnologias de Big Data.
+- Casos de uso de Big Data na Transformação Digital.
+- Desafios na implementação do Big Data.
+- Tomada de Decisões baseadas em Dados.
+- Futuro do Big Data na Transformação Digital. 
+- Conclusão.
+
 ## 🚀 Resultado
 
 Confira o resultado do artigo [Aqui]()
