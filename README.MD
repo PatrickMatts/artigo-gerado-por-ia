@@ -9,27 +9,7 @@ Projeto artigo técnico gerado por I.A.s
 
 ## 📄 Prompts e ferramentas
 
-PROMPT:
-
-Crie 10 headlines para um artigo sobre o assunto: De dados a decisões: A importância do Big Data na Transformação Digital                                                                                          
-
-Comporte-se como um escritor de artigos tech, escreva o artigo atendendo as regras abaixo:
-
-REGRAS
-> No máximo 5 linhas por blocos de explicação 
-> Me explique de maneira informal, como se eu fosse um adolescente de 15 anos
-> Os blocos que serão criados estão abaixo: 
-- Introdução ao assunto
-- Introdução à Transformação Digital 
-- O que é Big Data?
-- Como o Big Data impulsiona a Transformação Digital. 
-- Ferramentas e Tecnologias de Big Data.
-- Casos de Uso de Big Data na Transformação Digital.
-- Desafios na Implementação do Big Data
-- Tomada de Decisões baseadas em Dados.
-- Futuro do Big Data na Transformação Digital. 
-- Conclusão 
-
+PROMPT: [Aqui](https://docs.google.com/document/d/1iUvef6FIFma2EyQGErirSYQl4vdlAHYXlI3OSQvbkz0/edit?usp=drive_link) 
 
 ## ✨ Features
 
