@@ -3,7 +3,7 @@
 
 ## 📒 Descrição
 
-Projeto de laboratório desenvolvido para a formação **ChatGPT para Devs** da DIO, com o objetivo de criar artigos técnicos utilizando inteligência artificial. O tema foi escolhido com base na minha especialização em **Transformação Digital**, permitindo-me aplicar meu conhecimento prévio para corrigir e aprimorar os textos gerados pela IA.
+Projeto de laboratório desenvolvido para a formação **ChatGPT For Devs** da DIO, com o objetivo de criar artigos técnicos utilizando inteligência artificial. O tema foi escolhido com base na minha especialização em **Transformação Digital**, permitindo-me aplicar meu conhecimento prévio para corrigir e aprimorar os textos gerados pela IA.
 
 ## 💻 Tecnologias utilizadas no projeto
 
