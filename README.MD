@@ -1,9 +1,9 @@
 
-## Projeto artigo técnico gerado por I.A.s
+## Projeto Artigo Técnico Gerado por I.A.s
 
 ## 📒 Descrição
 
-Projeto desenvolvido no laboratório da formação ChatGPT para Devs, com o objetivo de criar artigos técnicos utilizando inteligência artificial. O tema foi escolhido com base na minha especialização em Transformação Digital, permitindo-me aplicar meu conhecimento prévio para corrigir e aprimorar os textos gerados pela IA
+Projeto de laboratório desenvolvido para a formação **ChatGPT para Devs** da DIO, com o objetivo de criar artigos técnicos utilizando inteligência artificial. O tema foi escolhido com base na minha especialização em **Transformação Digital**, permitindo-me aplicar meu conhecimento prévio para corrigir e aprimorar os textos gerados pela IA.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -12,17 +12,12 @@ Projeto desenvolvido no laboratório da formação ChatGPT para Devs, com o obje
 
 ## 📄 Prompts e ferramentas
 
-PROMPT: [Aqui](https://docs.google.com/document/d/1iUvef6FIFma2EyQGErirSYQl4vdlAHYXlI3OSQvbkz0/edit?usp=drive_link) 
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+Prompt: [Aqui](https://docs.google.com/document/d/1iUvef6FIFma2EyQGErirSYQl4vdlAHYXlI3OSQvbkz0/edit?usp=drive_link) 
 
 ## 🚀 Resultado
 
 Confira o resultado do artigo [Aqui]()
 
-## 🛠️ Instruções de execução
+## 🥳 Conclusão
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+O projeto foi desenvolvido por **inteligência artificial**, mas revisado e refinado por um ser humano. Embora a IA tenha desempenhado um papel crucial na criação do conteúdo, minha intervenção garantiu precisão, clareza e relevância. Isso destaca a colaboração eficaz entre tecnologia avançada e a expertise humana para produzir resultados de alta qualidade.
