@@ -1,22 +1,18 @@
 
-Projeto
+Projeto artigo técnico gerado por I.A.s
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [ChatGPT](https://chat.openai.com/) - Para título e conteúdo
+- [Adobe Express](https://www.adobe.com/br/express/) - Criação da capa
 
 ## 📄 Prompts e ferramentas
 
-ChatGPT：
-
-Lexica.art：
-
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
-
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para um artigo sobre o assunto: De dados a decisões: A importância do Big Data na Transformação Digital                                                                                                                                                                                                  |
+| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 ## ✨ Features
