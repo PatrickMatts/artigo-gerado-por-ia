@@ -14,7 +14,7 @@ Projeto artigo técnico gerado por I.A.s
 |  título  | Crie 10 headlines para um artigo sobre o assunto: De dados a decisões: A importância do Big Data na Transformação Digital                                                                                                                                                                                                  |
 | conteúdo | Comporte-se como um escritor de artigos tech, escreva o artigo atendendo as regras abaixo:
 
-{REGRAS}
+REGRAS
 > No máximo 5 linhas por blocos de explicação 
 > Me explique de maneira informal, como se eu fosse um adolescente de 15 anos
 > Os blocos que serão criados estão abaixo: 
