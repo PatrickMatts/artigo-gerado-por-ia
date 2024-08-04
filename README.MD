@@ -17,6 +17,7 @@ PROMPT
 Comporte-se como um escritor de artigos tech, escreva o artigo atendendo às regras abaixo:
 
 {REGRAS}
+
 No máximo 5 linhas por blocos de explicação.
 Me explique de maneira informal, como se eu fosse um adolescente de 15 anos.
 Os blocos que serão criados estão abaixo: 
