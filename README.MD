@@ -12,7 +12,7 @@ Projeto de laboratório desenvolvido para a formação **ChatGPT For Devs** da D
 
 ## 📄 Prompts e ferramentas
 
-PROMPT
+**PROMPT**
 
 Comporte-se como um escritor de artigos tech, escreva o artigo atendendo às regras abaixo:
 
