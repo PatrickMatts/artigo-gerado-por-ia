@@ -11,9 +11,9 @@ Projeto artigo técnico gerado por I.A.s
 
 PROMPT:
 
-> Crie 10 headlines para um artigo sobre o assunto: De dados a decisões: A importância do Big Data na Transformação Digital                                                                                          
+Crie 10 headlines para um artigo sobre o assunto: De dados a decisões: A importância do Big Data na Transformação Digital                                                                                          
 
-> Comporte-se como um escritor de artigos tech, escreva o artigo atendendo as regras abaixo:
+Comporte-se como um escritor de artigos tech, escreva o artigo atendendo as regras abaixo:
 
 REGRAS
 > No máximo 5 linhas por blocos de explicação 
