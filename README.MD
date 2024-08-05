@@ -26,7 +26,6 @@ Os blocos que serão criados estão abaixo:
 - O que é Big Data?
 - Como o Big Data impulsiona a Transformação Digital. 
 - Ferramentas e Tecnologias de Big Data.
-- Casos de uso de Big Data na Transformação Digital.
 - Desafios na implementação do Big Data.
 - Tomada de Decisões baseadas em Dados.
 - Futuro do Big Data na Transformação Digital. 
