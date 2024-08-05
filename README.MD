@@ -34,7 +34,7 @@ Os blocos que serão criados estão abaixo:
 
 ## 🚀 Resultado
 
-Confira o resultado do artigo [Aqui]()
+Confira o resultado do artigo [AQUI](https://www.dio.me/articles/de-dados-a-decisoes-a-importancia-do-big-data-na-transformacao-digital)
 
 ## 🥳 Conclusão
 
